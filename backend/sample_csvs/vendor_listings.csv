@@ -1,0 +1,7 @@
+variant_id,vendor_id,pack_size,min_order_qty,lead_time_days,active
+1,1,12,24,7,true
+1,2,6,12,5,true
+2,1,12,24,7,true
+3,3,24,48,10,true
+4,2,6,12,5,true
+5,4,12,36,14,true

@@ -1,0 +1,5 @@
+vendor_code,name,gstin,rating,active
+VND001,ABC Suppliers,12ABCDE1234F1Z5,4.5,true
+VND002,XYZ Trading,34XYZAB5678G2H6,4.2,true
+VND003,Quality Kitchenware,56QWERT9012I3J7,4.8,true
+VND004,Premium Vendors Ltd,78ASDFGH3456K8L9,4.0,true
